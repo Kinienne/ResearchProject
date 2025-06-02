@@ -23,7 +23,7 @@ The latitude of the sampling site.
 The longitude of the sampling site.
 #### Water depth [m]
 This is the depth at which the samples were collected. This is given in metres.
-#### Carbonate production [$\frac{g}{m^{2}*yr}$]
+#### Carbonate production g/m^2 * yr
 This is the exact carbonate production given in the paper.
 #### Method growth/calcification rate
 In this section are the methods used for calculating/determinating the calcification rate (also called growth rate).
