@@ -6,7 +6,7 @@ This is simply the original paper from which all the information in the line are
 #### Year
 This is the year of the original paper. This is a separate column for statistical tests.
 #### Species
-If the paper talks abou a specific species it will be noted here.
+If the paper talks about a specific species it will be noted here.
 #### Type/Morphology
 This is the "type" of crustose coralline algae that is worked with.
 - **Rhodolith**: Rhodoliths do not attach themselves to the rocky seabed. Rather, they roll like tumbleweeds along the seafloor until they become too large in size to be mobilised by the prevailing wave and current regime.
