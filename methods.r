@@ -5,7 +5,7 @@
 # email: katrin.eckardt@fau.de
 # date: 10.06.2025
 #
-# script name: genus.R
+# script name: methods.R
 # script description: generating subsets of the whole data to find patterns in the methods # nolint
 ################################################################################
 
