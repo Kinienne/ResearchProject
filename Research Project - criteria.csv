@@ -1,0 +1,21 @@
+,,criteria,,,,,,,
+method,type of method,objectivity,resources,time,field,total,,Objectivity:,How objective the method is. Impacts can be counting or visual methods.
+,,,,,,,,Resources:,"The resources needed for this method (e.g. aquarium, live samples)."
+dry weight,calcification rates,5,5,3,5,18,,Resources low:,A lot of specific resources (e.g. aquarium) required.
+buoyant weight,calcification rates,5,4,3,5,17,,,
+foil,surface estimation,4,5,5,3,17,,Field:,If the method is possible and easy in the field.
+in situ,calcification rates,3,4,3,5,15,,Time:,How much time is needed for the method to work.
+gross,calcification rates,5,4,3,2,14,,,
+photo-quadrats,surface estimation,2,4,4,4,14,,Field high:,Possible in the field and easy to do.
+tiles,calcification rates,4,2,3,5,14,,,
+wax dipping,surface estimation,3,3,5,3,14,,Resources high:,Not a lot of specific conditions required.
+alkalinity anomaly technique,carbonate production,5,3,3,2,13,,The scores go from 0-5. The highest possible total score is 20.,
+counting,calcification rates,3,4,4,2,13,,Field low:,Not possible in the field.
+geometric method,surface estimation,1,5,5,2,13,,Time low:,Method can only be achieved after months 
+total alkalinity,calcification rates,5,3,3,2,13,,The higher the score the better the method in all categories.,
+weight change,calcification rates,5,3,4,1,13,,Objectivity low:,A lot of counting/visual inputs.
+tape,carbonate production,2,4,4,2,12,,Time high: ,Method can be achieved in days.
+estimate,surface estimation,2,4,4,1,11,,Objectivity high:,Almost no counting/visual inputs.
+,,,,,,,,We will only look at methods that are not specific for one singular paper.,
+,,,,,,,,,
+,,,,,,,,"Methods that are similar (e.g. in situ, in situ2, etc.) will be categorized under one singular name.",

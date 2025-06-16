@@ -1,0 +1,118 @@
+paper,year,species,type/morphology,location,ocean/sea,latitude,longitude,water depth [m],carbonate  production (g m-2 yr-1),method growth/calcification rate,method carbonate production,study-type,data-source,carbonate prod.?
+Ragazzzola et al 2021,2021,Ellisolandia elongata,geniculate,Gulf of La Spezia,"Ligurian Sea, North-West Mediterranean Sea",44◦ 04′ 51.79′′ N,9◦ 52′ 53.98′′ E,"0,5",,,alkalinity anomaly technique,laboratory,calculated,x
+Amado-Filho et al. 2012,2012,Hydrolithon rupestre,rhodolith,Eastern tropical coast of Brazil,Abrolhos Shelf,19°45'S,16°50'W,"0,2-1,1",1.0 +/- 0.7 kg m-2 yr-1,in situ,"mean density, dimension, and percent live surface data",laboratory,calculated,x
+Amado-Filho et al. 2012,2012,Lithophyllum stictaeforme,rhodolith,Eastern tropical coast of Brazil,Abrolhos Shelf,19°45'S,16°50'W,"0,2-1,2",1.0 +/- 0.7 kg m-2 yr-1,in situ,"mean density, dimension, and percent live surface data",laboratory,calculated,x
+Amado-Filho et al. 2012,2012,Mesophyllum engelhartii,rhodolith,Eastern tropical coast of Brazil,Abrolhos Shelf,19°45'S,16°50'W,"0,2-1,3",1.0 +/- 0.7 kg m-2 yr-1,in situ,"mean density, dimension, and percent live surface data",laboratory,calculated,x
+Amado-Filho et al. 2012,2012,Sporolithon episporum,rhodolith,Eastern tropical coast of Brazil,Abrolhos Shelf,19°45'S,16°50'W,"0,2-1,4",1.0 +/- 0.7 kg m-2 yr-1,in situ,"mean density, dimension, and percent live surface data",laboratory,calculated,x
+Amado-Filho et al. 2012,2012,Neogoniolithon brassica-florida,rhodolith,Eastern tropical coast of Brazil,Abrolhos Shelf,19°45'S,16°50'W,"0,2-1,5",1.0 +/- 0.7 kg m-2 yr-1,in situ,"mean density, dimension, and percent live surface data",laboratory,calculated,x
+Amado-Filho et al. 2012,2012,Lithothamnion crispatum,rhodolith,Eastern tropical coast of Brazil,Abrolhos Shelf,19°45'S,16°50'W,"0,2-1,6",1.0 +/- 0.7 kg m-2 yr-1,in situ,"mean density, dimension, and percent live surface data",laboratory,calculated,x
+Basso 2012,2012,Porolithon onkodes,,"Rangiroa, Polynesia",,,,CCA-dominated reef flat,7400,,,,literature,x
+Basso 2012,2012,Porolithon onkodes,,"Penguin Bank, Hawaii",Pengiun Bank,,,40-100,2100,,,,literature,x
+Basso 2012,2012,Lithothamnion corallioides,maerl,"maerl of Brittany, France",,,,0-10,876,,,,literature,x
+Basso 2012,2012,Lithophyllum cabiochae,,NW Mediterranean,NW Mediterranean ,,,25 m aquarium simulation,292,,,laboratory,literature,x
+Basso 2012,2012,Lithothamnion corallioides,,"maerl of Mannin Bay, NE Atlantic",,,,0-10,29-164,,,,literature,x
+Basso 2012,2012,Phymatolithon calcareum,maerl,"maerl of Mannin Bay, NE Atlantic",,,,0-10,79-249,,,,literature,x
+Blake and Maggs 2003,2003,Phymatolithon calcareum,maerl,"Rainey Island, Strangford Lough, Northern Ireland",,,,3-4,,in situ2,,laboratory,,
+Blake and Maggs 2003,2003,Lithothamnion corallioides,maerl,"Coral Strand, Greatman's Bay, Co. Galway, western Ireland",,,,3-4,,in situ2,,laboratory,,
+Blake and Maggs 2003,2003,Lithothamnion glaciale,maerl,"Rainey Island, Strangford Lough, Northern Ireland",,,,3-4,,in situ2,,laboratory,,
+Bosence 1980,1980,Lithothamnion corallioides,maerl,Mannin Bay,,,,,29-164,literature,calculated,,literature,x
+Bosence 1980,1980,Phymatolithon calcareum,maerl,Mannin Bay,,,,,79-249,literature,calculated,,literature,x
+Bosence and Wilson 2003,2003,,maerl,UK and Ireland,,,,,,in situ2 + thickness + 14C,growth rate x standing crop,laboratory,literature,x
+Bracchi and Basso 2012,2012,,,Pontian Archipelago,outer margin of the continental shelf in the central Tyrrhenian Sea,,,32-100,"7,91",literature,coverage,laboratory,literature,x
+Briggs and Carpenter 2019,2019,Porolithon onkodes,,"Black Reef, Tasmania","Black Reef, Tasmania",43.5380◦S,146.9733◦E,10,,buoyant weight,foil ,laboratory,calculated,x
+Britton et al. 2021,2021,,,,,,,,,Kain,alkalinity anomaly technique,laboratory,calculated,x
+Büdenbender et al. 2011,2011,Lithothamnion glaciale,maerl,Cape Rubin,north coast of Spitsbergen,80° 32’ 19” N,19° 50’40” E,40-50,235−391,total alkalinity technique,tape,laboratory,calculated,x
+Westfield et al. 2022,2022,C. compactum,CCA,Gulf of Maine,Gulf of Maine,,,,,buoyant weight + dry weight,general additive models,laboratory,calculated,x
+Westfield et al. 2022,2022,C. nereostratum,CCA,Aleutian Islands,,,,,,buoyant weight + dry weight,general additive models,laboratory,calculated,x
+Walker and Woelkerling 1988,1988,,,Shark Bay,,,,,,total alkalinity technique,standing stock estimates + leaf accumulation data + alkalinity results,laboratory,calculated,x
+Tompkins and Steller 2016,2016,L. australe,rhodolith,"Los Angeles, California, USA, in the Southern California Bight",Catalina,33.40° N,118.40°W,0-30,,in situ,estimate,field,calculated,x
+Teichert and Freiwald 2014,2014,Lithothamnion glaciale,rhodolith,Svalbard archipelago,,,,,,counting,increment numbers,laboratory,calculated,x
+Ramírez-Viaña et al. 2021,2021,Lithophyllum congestum,CCA,Tayrona National Natural Park (TNNP),,,,5-7,,in situ,gross + soaking,laboratory,calculated,x
+Ramírez-Viaña et al. 2021,2021,P. antillarum,CCA,Tayrona National Natural Park (TNNP),,,,5-7,,in situ,gross + soaking,laboratory,calculated,x
+Ries et al. 2019,2019,,,,,,,,,buoyant weight,,laboratory,calculated,
+Page et al. 2021,2021,P. onkodes,CCA,Yonge Reef, Great Barrier Reef,14◦ 37' 32.1''S,145◦ 38' 06.2''E,,,total alkalinity technique,total alkalinity technique,laboratory,calculated,x
+Potin et al. 1990,1990,Lithothamnion corallioides,maerl,Bay of Breast,,,,,876,buoyant weight + dry weight,,field,calculated,
+Pulecio-Plaza et al. 2023,2023,Porolithon antillarum,CCA,Gayraca Bay,,11.33° N,74.11° W,,,in situ + geometric method + buoyant weight,,laboratory,calculated,
+Pulecio-Plaza et al. 2023,2023,Lithophyllum cf. kaiseri,CCA,Gayraca Bay,,11.33° N,74.11° W,,,in situ + geometric method + buoyant weight,,laboratory,calculated,
+Fine et al. 2017,2017,N. brassica-florida,,Sicily,Mediterranean coast of Israel,,,,,total alkalinity technique,,laboratory,calculated,
+Freiwald and Heinrich 1994,1994,Lithothamnion spp,maerl,"Rebbenesøy, east of the Sandøyfjord Trough",Storvoll Bay + west of the small islets archipelago near Måsvik,,,7-18,,geometric method,Fuchsine method,laboratory,calculated,x
+Freiwald and Heinrich 1994,1994,Phymatolithon sp,maerl,"Rebbenesøy, east of the Sandøyfjord Trough",Storvoll Bay + west of the small islets archipelago near Måsvik,,,7-18,,geometric method,Fuchsine method,laboratory,calculated,x
+Canals and Ballesteros 1997,1997,Posidonia oceanica,maerl,Mallorca,Balearic Shelf,,,40-100,,dry weight,literature,laboratory,literature,x
+Caragnano et al. 2016,2016,Neogoniolithon brassica-florida,rhodolith,,Gulf of Aqaba,,,60-100,,in situ + estimate,,laboratory,calculated,
+Chisholm 1988,1988,,,,,,,,,total alkalinity technique,gross,field,calculated,x
+Chisholm 2000,2000,Hydrolithon onkodes,,Lizard Islands,,,,0,,total alkalinity technique,gross,field,calculated,x
+Chisholm 2000,2000,Neogoniolithon brassica-florida,,Lizard Islands,,,,0,,total alkalinity technique,gross,field,calculated,x
+Chisholm 2000,2000,Neogoniolithon conicum,,Lizard Islands,,,,0,,total alkalinity technique,gross,field,calculated,x
+Chisholm 2000,2000,Hydrolithon onkodes,,Lizard Islands,,,,2,,total alkalinity technique,gross,field,calculated,x
+Chisholm 2000,2000,Neogoniolithon brassica-florida,,Lizard Islands,,,,3,,total alkalinity technique,gross,field,calculated,x
+Chisholm 2000,2000,Hydrolithon reinboldii,,Lizard Islands,,,,3,,total alkalinity technique,gross,field,calculated,x
+Chisholm 2000,2000,Neogoniolithon brassica-florida,,Lizard Islands,,,,6,,total alkalinity technique,gross,field,calculated,x
+Chisholm 2000,2000,Neogoniolithon conicum,,Lizard Islands,,,,6,,total alkalinity technique,gross,field,calculated,x
+Chisholm 2000,2000,Hydrolithon reinboldii,,Lizard Islands,,,,6,,total alkalinity technique,gross,field,calculated,x
+Chisholm 2000,2000,Neogoniolithon conicum,,Lizard Islands,,,,18,,total alkalinity technique,gross,field,calculated,x
+Chisholm et al. 1990,1990,Porolithon onkodes,,Lizard Islands,,,,,,squares,,laboratory,calculated,
+Comeau et al. 2019 a,2019,Lithophyllum kotschyanum,,"Moorea, French Polynesia",,,,back reef,,buoyant weight + dry weight,foil,laboratory,calculated,x
+Comeau et al. 2019 b,2019,Sporolithon durum,rhodolith,"Salmon Bay, Rottnest Island, WA, Australia",,32°01′16.44″S,115°31′16.60″E,1-2,,buoyant weight + dry weight,foil,laboratory,calculated,x
+Cornwall et al. 2014,2014,Arthrocardia corymbosa,,"kelp forest near Karitane, South Island, New Zealand",,45°38'20''S,170°40'15''E,,,buoyant weight + dry weight,,laboratory,calculated,
+Cornwall et al. 2018,2018,H. reinboldii,,Tallon/Jalan Island,,16°40 S,123°14E,,,buoyant weight + dry weight,,laboratory,calculated,
+Cornwall et al. 2018,2018,Goniopora sp,,Shell Island,,16°48 S,123°04E,,,buoyant weight + dry weight,,laboratory,calculated,
+Donham et al. 2022,2022,Calliarthron tuberculosum,,"Mia’s Reef in San Diego, California",,32°51' 14.8“ N,117°16’52.4” W,13,,in situ3,,laboratory,calculated,
+Dutra et al. 2016,2016,Peyssonnelia,,Little Cayman Island,,N19.42′ 01′′,W80.03′ 34′′,18,,buoyant weight,,laboratory,calculated,
+Eakin 1996,1996,Pocillopora damicornis,,Uva Island,,07° 49'N;,81° 46'W,shallow reef,,in situ ,areal adjustment,laboratory,calculated,x
+Edyvean and Ford 1987,1987,Lithophyllum incrustans,rhodolith,Manorbier,intertidal rockpools,,,,,reweighing,estimate,laboratory,calculated,x
+Egilsdottir et al. 2013,2013,Corallina elongata,geniculate,"‘‘Les Amiets’’, Cléder, France",,48°41' 45 N,4°7' 26 W,,,buoyant weight + dry weight,,laboratory,calculated,
+El Haïkali et al. 2004,2004,Corallina elongata,,Anse des Cuivres-Gulf of Marseilles ,French Mediterranean coasts,43.280°N,5.347°E,5,0.225 - 0.892 mg CaCO3.g-1DW.h-1,total alkalinity technique,,laboratory,calculated,
+El Haïkali et al. 2004,2004,Ulva rigida,,Anse des Cuivres-Gulf of Marseilles ,French Mediterranean coasts,43.280°N,5.347°E,5,0.225 - 0.892 mg CaCO3.g-1DW.h-1,total alkalinity technique,,laboratory,calculated,
+Lai et al. 2024,2024,,,Taoyuan City,,25.007972°N,121.022130°E,,,in situ2 + estimate,,laboratory,calculated,
+Legrand et al. 2017,2017,L. corallioides,maerl,"Bay of Brest, France",,48◦18' N,4◦23' W,"0,7-6,8",,total alkalinity technique,,laboratory,calculated,
+Legrand et al. 2019,2019,L. corallioides,maerl,"bay of Brest, France",,48°19′56 N,04°19′56 W,,,total alkalinity technique,,laboratory,calculated,
+Noisette et al. 2013a,2013,Lithothamnion corralioides,maerl,Bay of Brest,,48°17′ 46″ N,4°24′ 59″ W,10,,total alkalinity technique,,laboratory,calculated,
+Noisette et al. 2013b,2013,C. elongata,geniculate,"“Les Amiets”, Cléder",,48°41.45′N,4°7.26′W,,,total alkalinity technique,,laboratory,calculated,
+Noisette et al. 2013b,2013,L. incrustans,CCA,Green Island channel,,48°43.73′N,3°59.22′W,,,total alkalinity technique,,laboratory,calculated,
+Noisette et al. 2013b,2013,L. corralioides,rhodolith,Bay of Morlaix at the Guérhéon site,,48° 42.66′N,3°57.06′W,7,,total alkalinity technique,,laboratory,calculated,
+Gao and Zheng 2010,2010,C. sessilis,,Nan’ao island,,23.3°N,116.6°E,"0,1",,total alkalinity technique,alkalinity anomaly technique,laboratory,calculated,x
+Gheradi 2004,2004,Lithophyllum sp,rhodolith,Arvoredo island,,(27°15'S,48°25'W,7-20,,buoyant weight + estimate,photo-quadrats,field,calculated,x
+Gheradi 2004,2004,Neogoniolithon cf. strictum,rhodolith,Arvoredo island,,27°15'S,48°25'W,7-20,,buoyant weight + estimate,photo-quadrats,field,calculated,x
+Graba-Landry et al. 2018,2018,Corallina officinalis,geniculate,Charlesworth Bay,,30° 16’ 03.0’’ S,153° 08’ 16.19’’ E,,,alkalinity anomaly technique,,laboratory,calculated,
+Graba-Landry et al. 2018,2018,Amphiroa anceps,geniculate,Charlesworth Bay,,30° 16’ 03.0’’ S,153° 08’ 16.19’’ E,,,alkalinity anomaly technique,,laboratory,calculated,
+Guenther et al. 2022,2022,Corallina vancouveriensis,geniculate,Deadman Bay,,48° 30‘ 48.09‘‘ N,123° 8‘ 49.38‘‘ W,,,weight change,,laboratory,calculated,
+Guenther et al. 2022,2022,Calliarthron tuberculosum,geniculate,Deadman Bay,,48° 30‘ 48.09‘‘ N,123° 8‘ 49.38‘‘ W,,,weight change,,laboratory,calculated,
+Guy-Haim et al. 2020,2020,Ellisolandia elongata,geniculate,Mediterranean coast of Israel,Mediterranean,33◦2′ 30.35′′N,35◦4′ 58.74′′E,1.5-2,,alkalinity anomaly method,,laboratory,calculated,
+Johnson and Carpenter 2012,2012,H. onkodes,,"Kaneohe Bay, Oahu, Hawaii",,,,1-2,,buoyant weight + dry weight,foil,laboratory,calculated,x
+Johnson et al. 2014a,2014,Porolithon onkodes,,"Moorea, French Polynesia",,,,2-3,,buoyant weight + dry weight,,laboratory,calculated,
+Johnson et al. 2014b,2014,Lithophyllum prototypum,,"Palmyra Atoll in the Northern Line Islands, central Pacific",Central Pacific,,,10,,buoyant weight + actual weigth,,laboratory,calculated,
+Johnson et al. 2014b,2014,Lithophyllum sp,,"Palmyra Atoll in the Northern Line Islands, central Pacific",Central Pacific,,,5,,buoyant weight + actual weigth,,laboratory,calculated,
+Johnson et al. 2019,2019,Lithophyllum congestum,,Bahía Almirante in the Bocas del Toro archipelago off the Caribbean coast of Panamá,,,,3,,buoyant weight + actual weight,,laboratory,calculated,
+Kamenos et al. 2013,2013,Lithothamnion glaciale,,"Loch Sween, Scotland",,56°01.99′ N,05°36.13′ W,7,,total alkalinity anomaly,,laboratory,calculated,
+Kamya et al. 2017,2017,,CCA,,,,,,,‘alkalinity anomaly technique,,laboratory,calculated,
+King and Schramm 1982,1982,Phymatolithon calcareum,,"Kattegatt (Baltic), east of SamsO Island",Baltic sea,,,13,,Linear regression + dry weight,,laboratory,calculated,
+Kolzenburg et al. 2021,2021,C. officinalis,,St Margarets Bay,,51.148056 ◦N,1.385056 ◦E,0.31,,in situ2 + estimate,,laboratory,calculated,
+Kolzenburg et al. 2021,2021,C. officinalis,,Westbrook Bay,,51.388840 ◦N,1.367170 ◦E,0.31,,in situ2 + estimate,,laboratory,calculated,
+Kuffner et al. 2013,2013,,CCA,Pulaski Shoal,,,,4-6,,tiles,,field,calculated,
+Manning et al. 2019,2019,P. onkodes,,Cook's Pass,,17°28′46.60″S,149°49′8.27″W,2,,buoyant weight + dry weight,,laboratory,calculated,
+Martin and Gattuso 2009,2009,L. cabiochae,,Bay of Villefranche,NW Mediterranean sea,43°40.73' N,07°19.39' E,25,,buoyant weight + dry weight,,laboratory,calculated,
+Martin et al. 2006,2006,L. corallioides,,Squiffiec site,,48° 19' 35''N,4° 23' 50'' W,1-8,,alkalinity anomaly technique,,laboratory,calculated,
+Martin et al. 2013a,2013,Lithophyllum cabiochae,,Bay of Villefranche,NW Mediterranean Sea,43°40.73' N,07°19.39' E,25,,alkalinity anomaly technique,,laboratory,calculated,
+Martin et al. 2013b,2013,Lithophyllum cabiochae,,Bay of Villefranche,NW Mediterranean Sea,43°40.73' N,07°19.39' E,25,,alkalinity anomaly technique + gross,,laboratory,calculated,
+Matsuda 1989,1989,Porolithon onkodes,,Ishigaki Island (Ishigaki-jima),,24° N,124° E,,,tiles2 + weighing,literature,laboratory,literature,x
+Matsuda 1989,1989,Paragoniolithon conicum,,Ishigaki Island (Ishigaki-jima),,24°N,124° E,,,tiles2 + weighing,literature,laboratory,literature,x
+Matsuda 1989,1989,Lithophyllum insipidum,,Ishigaki Island (Ishigaki-jima),,24°N,124° E,,,tiles2 + weighing,literature,laboratory,literature,x
+McNicholl et al. 2020,2020,Neogoniolithon strictum,,Looe Key Reef,,24.62055° N,81.37078° W,3,,total alkalinity anomaly,,laboratory,calculated,
+Savini et al. 2012,2012,Lithothamnion corallioides,,Cilento peninsula on the southeastern margin of the Tyrrhenian sea,Tyrrhenian sea,,,,,literature,,laboratory,literature,
+Schubert et al. 2021,2021,Lithothamnion crispatum,rhodolith,southernmost Brazilian rhodolith bed within the Arvoredo Marine Biological Reserve,,"−27°16′25.8""","-48°22′0.99""",,,alkalinity anomaly technique,wax dipping,laboratory,calculated,x
+Schubert et al. 2021,2021,Melyvonnea erubescens,rhodolith,southernmost Brazilian rhodolith bed within the Arvoredo Marine Biological Reserve,,"−27°16′25.8""","-48°22′0.99""",,,alkalinity anomaly technique,wax dipping,laboratory,calculated,x
+Schubert et al. 2021,2021,Lithophyllum atlanticum,rhodolith,southernmost Brazilian rhodolith bed within the Arvoredo Marine Biological Reserve,,"−27°16′25.8""","-48°22′0.99""",,,alkalinity anomaly technique,wax dipping,laboratory,calculated,x
+Schäfer et al. 2011,2011,,,,,,,10-60,,age + seafloor,production rates,laboratory,calculated,x
+Semesi et al. 2009,2009,Hydrolithon sp,rhodolith,"Chwaka Bay, Zanzibar",,,,,,total alkalinity method,initial,laboratory,calculated,x
+Short et al. 2014,2014,Hydrolithoideae,CCA,Marmion Lagoon,,S31°48′,E115°42′,5,,buoyant weight2 + calcus,,laboratory,calculated,
+Sordo et al. 2018,2018,,rhodolith,"Armação de Pêra, Faro",,N 37°011′.650″,W-8°19′.034″,22,,alkalinity anomaly technique + buoyant weight,,laboratory,calculated,
+Sordo et al. 2019,2019,Phymatolithon lusitanicum,rhodolith,Armação de Pêra,,N 37°011′0.650″,W −8°19′0.034″,,,total alkalinity method,,laboratory,calculated,
+Sordo et al. 2020,2020,,maerl,Armação de Pêra,,N 37°011′0.650″,W −8°19′0.034″,,,in situ4 + buoyant weight,,laboratory,calculated,
+Stearn et al. 1977,1977,Porolithon,CCA,West coast of Barbados,,13° 15' N,59° 30' W,,,Artificial substrate + transect count,,laboratory,calculated,
+Stearn et al. 1977,1977,Neogoniolithon,CCA,West coast of Barbados,,13° 15' N,59° 30' W,,,Artificial substrate + transect count,,laboratory,calculated,
+Stearn et al. 1977,1977,Lithophyllum,CCA,West coast of Barbados,,13° 15' N,59° 30' W,,,Artificial substrate + transect count,,laboratory,calculated,
+Stearn et al. 1977,1977,Mesophyllum,CCA,West coast of Barbados,,13° 15' N,59° 30' W,,,Artificial substrate + transect count,,laboratory,calculated,
+Steller et al. 2007,2007,L. margaritae,,"Bahía Concepción, Baja California Sur, Mexico",,26º38′34″ Ν,111º49′49″ W,5-8,,weight change + buoyant weight + total alkalinity ,in situ,laboratory,calculated,x
+Edyvean and Ford 1984,1984,L. incrustans,,Seil Island,,,,,,counting,photo-quadrats,laboratory,calculated,x
+Edyvean and Ford 1984,1984,L. incrustans,,Berwick,,,,,,counting,photo-quadrats,laboratory,calculated,x
+Edyvean and Ford 1984,1984,L. incrustans,,Lannacombe Bay,,,,,,counting,photo-quadrats,laboratory,calculated,x
