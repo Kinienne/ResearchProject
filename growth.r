@@ -13,7 +13,7 @@
 
 setwd("/Users/katrineckardt/Downloads/Universität/ResearchProject")
 
-dat <- read.csv("data/Research Project - Kopie von general.csv")
+dat <- read.csv("data/Table_4.csv")
 View (dat)
 
 
